@@ -1,2 +1,3 @@
 # Beginner-Repo
-Just building a test repository... playing around
+ building a test repository... playing around
+This is my first repository...
